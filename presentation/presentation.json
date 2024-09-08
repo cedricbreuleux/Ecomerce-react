@@ -1,0 +1,7 @@
+{
+    "titre": "Ecomerce-React",
+    "description": "Un site ecomerce réalisé comme projet de fin d'année !",
+    "introduction": "Ce projet d'étude a été fait en 8 semaines avec trois autres personnes. Je me suis occupé autant de la partie back-end que front-end.",
+    "technologies": "Ce projet a été réalisé avec Laravel pour la partie back-end et React pour la partie front-end",
+    "fonctionnement": "Le site est divisé en deux parties. La premiere et celle du client ui lui permet de naviguer entre plusieurs collections, categories, articles, sellectionner une uantité souhaité et simuler un paiement. Le client dispose également d'une partie profil sur lauelle il peut renseigner une carte bancaire. La deuxieme partie du site est pour l'administrateur ui lui permet de gerer ses stocks ainsi ue d'avoir la main sur les utilisateurs du site."
+}
