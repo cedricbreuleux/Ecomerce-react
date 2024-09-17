@@ -1,17 +1,12 @@
 {
     "titre": "Ecomerce-React",
-    "description": "Un site ecomerce réalisé comme projet de fin d'année !",
-    "introduction": "Ce projet d'étude a été fait en 8 semaines avec trois autres personnes. Je me suis occupé autant de la partie back-end que front-end.",
-    "technologies": "Ce projet a été réalisé avec Laravel pour la partie back-end et React pour la partie front-end",
-    "fonctionnement": "Le site est divisé en deux parties. La premiere et celle du client ui lui permet de naviguer entre plusieurs collections, categories, articles, sellectionner une uantité souhaité et simuler un paiement. Le client dispose également d'une partie profil sur lauelle il peut renseigner une carte bancaire. La deuxieme partie du site est pour l'administrateur ui lui permet de gerer ses stocks ainsi ue d'avoir la main sur les utilisateurs du site.",
+    "description": "Site ecomerce réalisé comme projet de <span class='Important-Word PrimaryColor'>fin d'année ! </span>",
+    "introduction": "Ce projet d'étude a été réalisé en <span class='Important-Word PrimaryColor'>8 semaines</span> avec <span class='Important-Word PrimaryColor'>trois</span> autres personnes. Je me suis occupé à la fois du <span class='Important-Word PrimaryColor'>back-end</span> comme du <span class='Important-Word PrimaryColor'>front-end</span>. C'était le premier projet de grande ampleur qui se rapprochait autant d'un <span class='Important-Word PrimaryColor'>cas réel</span> sur lequel j'ai pu travailler.",
+    "technologies": "Ce projet est une application de commerce électronique construite avec <span class='Important-Word PrimaryColor'>ReactJS</span> pour le front-end et <span class='Important-Word PrimaryColor'>PHP</span> pour le back-end. Il utilise une base de données <span class='Important-Word PrimaryColor'>MySQL</span> et comprend des instructions pour configurer l'environnement, effectuer des migrations de base de données via <span class='Important-Word PrimaryColor'>Laravel</span>, et lancer l'application côté client avec <span class='Important-Word PrimaryColor'>Node.js</span>. Un compte administrateur par défaut est également fourni pour tester l'application.",
+    "fonctionnement": "Le site est divisé en <span class='Important-Word PrimaryColor'>deux parties</span>. La première est celle du <span class='Important-Word PrimaryColor'>client</span>, qui lui permet de naviguer entre plusieurs <span class='Important-Word PrimaryColor'>collections, catégories, articles, de sélectionner une quantité souhaitée et de simuler un paiement</span>. Le client dispose également d'une section <span class='Important-Word PrimaryColor'>profil</span> où il peut renseigner une <span class='Important-Word PrimaryColor'>carte bancaire</span>. La deuxième partie du site est destinée à <span class='Important-Word PrimaryColor'>l'administrateur</span>, qui lui permet de gérer ses <span class='Important-Word PrimaryColor'>stocks</span> ainsi que d'avoir la main sur les <span class='Important-Word PrimaryColor'>utilisateurs du site.</span>",
     "liensExterne": [
         {
-            "description": "Ce projet est utilisable en ligne",
-            "textBtn": "Aller sur le site",
-            "url": "ceceland.fr"
-        },
-        {
-            "description": "Le code source est disponnible sur github.",
+            "description": "Code source disponnible sur github.",
             "textBtn": "Voir le code source",
             "url": "https://github.com/cedricbreuleux/Ecomerce-react"
         }
